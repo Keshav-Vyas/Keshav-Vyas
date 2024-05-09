@@ -20,7 +20,7 @@ These are some of the languages and tools I'm familiar with:
 * **Other:** Git, UiPath, Hadoop, Linux
 
 
-## Lessons Learned
+## Lesson Learned
 
 Have the courage to follow your heart and intuition. They somehow know what you truly want to become.<br>
     **- Steve Jobs**
