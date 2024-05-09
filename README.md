@@ -23,5 +23,5 @@ These are some of the languages, tools, and frameworks I'm familiar with:
 
 ## Lessons Learned
 
-Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
-**- Steve Jobs**
+Have the courage to follow your heart and intuition. They somehow know what you truly want to become.<br>
+    **- Steve Jobs**
