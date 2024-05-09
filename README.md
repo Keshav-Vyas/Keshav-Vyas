@@ -14,8 +14,7 @@
 
 ## 🚀 Languages and Tools
 
-These are some of the languages, tools, and frameworks I'm familiar with:
-<!--- List of tools and frameworks here --->
+These are some of the languages and tools I'm familiar with:
 * **Languages:** Python, JavaScript, HTML/CSS, R
 * **Databases:** MySQL, PL/SQL
 * **Other:** Git, UiPath, Hadoop, Linux
