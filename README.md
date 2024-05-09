@@ -7,16 +7,21 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 I’m currently working on A Project Called **"BUBBLE"**
+- 🚀 I’m currently working on a Project called **"BUBBLE"**
 - 🐱 Always ready to solve complex problems, into fun and accessible solutions.
 - 📫 Reach out to me at my **<a href="mailto:yohokeshav@gmail.com">Email</a>**
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+## 🚀 Languages and Tools
+
+These are some of the languages, tools, and frameworks I'm familiar with:
+<!--- List of tools and frameworks here --->
+* **Languages:** Python, JavaScript, HTML/CSS, R
+* **Databases:** MySQL, PL/SQL
+* **Other:** Git, UiPath, Hadoop, Linux
 
 
 ## Lessons Learned
 
 Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
-  - Steve Jobs
+**- Steve Jobs**
